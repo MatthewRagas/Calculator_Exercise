@@ -76,7 +76,7 @@ namespace Calculator
             //Subtraction function;
             int Subtraction(int lhs, int rhs)
             {
-                int sum = lhs + rhs;
+                int sum = lhs - rhs;
                 return sum;
             }
 
